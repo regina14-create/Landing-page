@@ -29,3 +29,15 @@
     justify-content: center;
     margin: 0 auto;
 }
+
+.portfolio {
+    background-color:rgb(251, 247, 241);
+    padding: 48px;
+
+}
+
+.portfolio img {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
